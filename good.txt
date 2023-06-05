@@ -1,10 +1,11 @@
-PERSIST_DIRECTORY = "db"
+Good Config:
+
+PERSIST_DIRECTORY = "TV_db"
 MODEL_TYPE = "LlamaCpp"
 MODEL_PATH = "models\ggml-vic7b-uncensored-q5_1.bin"
 EMBEDDINGS_MODEL_NAME = "all-MiniLM-L6-v2"
-source_directory = r'C:\Users\R2DL\Downloads\Open_TVs_txt\excel'
-MODEL_N_CTX = 1000
-chunk_size = 500
-chunk_overlap = 50
+MODEL_N_CTX = 2500
+chunk_size = 1000
+chunk_overlap = 100
 target_source_chunks = 3
 n_gpu_layers = 32

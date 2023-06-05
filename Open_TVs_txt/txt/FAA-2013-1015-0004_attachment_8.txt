@@ -1,0 +1,165 @@
+| - BB BRB Baw & 5 tw sh
+(cores)
+© Rolis-Royce pic (date as shown below).
+The information in this document is the property of Rolls-Royce ple and may not be copied, communicated to a third party, or
+used for any purpose other than that which it is supplied without the express written consent of Rolls-Royce plc.
+This document is issued specifically to address the Issue ralsed in the associated Technical Variance request. Authorisation for
+repeated application can be covered by the Issuance of further documents and may be requested
+This document is supplemental to the Manual(s) specified below and should be suitably stored in accordance with local
+airworthiness requirements.
+Technical Variance No. 124851 Issue 2 Date 04 JUL 2012
+nperator! DEUTSCHE LUFTHANSA Original Request No. Be er?
+ppliean ROLLS-ROYCE
+Engine Type RB211 Engine Mark(s) TRENT 970-84,972-84
+Part Description TAIL BEARING HOUSING Engine Serial No. 91057
+Part No. FW 35923,FW27718,FW 51434 Part Serial No. VARIOUS
+Manual Title EM&AMM Ref. Airbus-A380 AMM &E-TRENT-9RR ATARef. 72-52-51
+TV Title Fluorescent Penetrant Inspection of the Tail Bearing Housing, Mount Lug Run-outs
+Existing Requirement
+The Aircraft Maintenance Manual (AMM) and the Engine Manual (EM) do not contain a specific procedure
+for Fluorescent Penetrant Inspection (FPI) of the Mount Lug Run-outs. This Technical Variance details the
+procedure for FP! of the TBH Mount Lug Run-outs.
+Requested Variance
+ISSUE 2 DUE TO CHANGE IN ENGINE SERIAL NUMBER
+A Technical Variance is requested to detail the procedure for the TBH inspection for both on wing and in
+shop inspections (in shop inspection procedure included for reference).
+Engine 91057 is to be inspected on wing.
+Summary of Investigation and Conclusions
+Rolls-Royce Engineering have reviewed the above requirement and an on wing trial of the FPI of the TBH
+Mount Lug Run-outs has been conducted.
+This Technical Variance is issued to instruct the inspection of the TBH Mount Lug Run-outs for engine
+91057 pending issue of a planned Non-modification Service Bulletin.
+Approval on Behalf of Rolls-Royce
+Title 2 we PAL “BCH NOCOCs! ST — GENVice” ENGINGEKUNG
+Service Engineering Team Leader / CVE
+Signature eae Asthe Printedname S OD Certr2H1e date OC i s7/e
+04" July 2012
+Document Created by Danek Wehehh
+Daniel Kebell
+Declaration of Approval
+This document is approved by Rolls-Royce pic under the authority of EASA Design Organisation Approval no. EASA.21J.035.
+leorceyt re” A WULUTIUAGLUO OMeel OO
+Manpower Requirements
+1) On-wing
+Time to gain access
+0.5 hour (1 person)
+Time to inspect Tail Bearing Housing (TBH) Mount Lug Run-outs
+2 hours (2 persons)
+Time to restore to serviceable condition
+0.5 hour (1 person)
+2) In Shop
+Time to inspect Tail Bearing Housing (TBH) Mount Lug Run-outs
+2 hours (2 persons)
+The Fluorescent Penetrant Inspection (FPI) defined in this Technical Instruction shall only be
+performed by personnel qualified to FP! Level 2 or higher and in possession of an up to date
+eyesight record in accordance with EN4179/NAS410 or alternative standards/guidelines
+accepted by the applicable National Aviation Authority.
+Materials
+OMat 651F - F2B - AMS2644 Type 1, Method D, Level 3 (1D3) compliant aerosol
+penetrant (Fluorescent, Post-Emulsified, Medium Sensitivity).
+OMat 617 — AMS2644 Form d — Non-Aqueous Wet Developer — Aerosol.
+Ultra Violet Light Source capable of providing a minimum UV radiation intensity of
+1200 pW/cm* at the inspection surface.
+Dark Non-Reflective cover to darken the area for inspection.
+OMat 150 — Acetone.
+OMat 2/101 — Lint Free Cloths.
+OMat 677 — Penetrant Test Panel.
+Visual Aids as per AMM Task 70-20-02, Fluorescent Penetrant Inspection.
+leorceyt rn” WURLTIUAGLUVU OIICCtl OO
+PROCEDURE —- ON WING
+WARNING: YOU MUST BE CAREFUL WHEN YOU WORK ON THE ENGINE AFTER THE
+ENGINE IS SHUTDOWN. THE ENGINE CAN STAY HOT FOR UPTO ONE
+HOUR.
+WARNING: YOU MUST NOT TOUCH HOT PARTS WITHOUT APPLICABLE GLOVES. HOT
+PARTS CAN CAUSE INJURY. IF YOU GET AN INJURY, TREAT WITH COLD
+WATER FOR 10 MINUTES, THEN SEEK MEDICAL AID.
+1) To get access to the Tail Bearing Housing (TBH) Mount Lug Run-outs
+|. Open the Fan Cowl Doors in accordance with AMM Task 71-13-00, Maintenance
+Practices to get access
+li. Make the Thrust Reverser unserviceable for maintenance in accordance with
+AMM Task 78-30-00 Deactivation/Activation.
+WARNING: YOU MUST MAKE THE THRUST REVERSER UNSERVICEABLE (INSTALL
+AND SAFETY THE INHIBITION DEVICE) BEFORE YOU DO WORK ON OR
+AROUND THE THRUST REVERSER. IF YOU DO NOT INSTALL AND SAFETY
+THE INHIBITION DEVICE, THERE IS A RISK THAT THE THRUST REVERSER
+CAN OPERATE ACCIDENTALLY. THIS CAN CAUSE INJURY TO PERSON
+AND/OR DAMAGE TO THE EQUIPMENT.
+ili. Open the Fan Exhaust Cowls in accordance with the AMM, Task 78-26-00
+iv. Use appropriate staging to gain access to the Tail Bearing Housing TBH
+2) Carry out the inspection on the Mount Lug Run-outs
+WARNING: PROTECTIVE GLOVES AND SAFETY GLASSES MUST BE WORN AT ALL
+TIMES DURING THE INSPECTION. IF YOU GET AN INJURY, SEEK MEDICAL
+AID IMMEDIATELY.
+|. This inspection must be performed in accordance with the requirements of AMM
+70-20-02, Fluorescent Penetrant Inspection.
+li. Local cleaning of the inspection areas must be completed prior to FPI.
+ili. Apply OMat 150 — Acetone to a clean OMat 2/101 — Lint Free Cloth.
+Iv. Clean the inspection surfaces (see Figures 1 and 2) with the moistened
+cloth.
+v. Ensure that all contaminants have been removed. If necessary repeat
+steps (ili) and (iv) in order to achieve this.
+NOTE: THE INSPECTION SURFACE, MUST BE CLEAN, DRY AND FREE FROM SOILS, OIL,
+GREASE, PAINT, COATINGS, CORROSION PRODUCTS, SCALE, SMEARED
+METAL, WELDING FLUX, CHEMICAL RESIDUES OR ANY OTHER MATERIAL
+THAT COULD PREVENT PENETRANT FROM ENTERING A DISCONTINUITY,
+AFFECT PROCESS PERFORMANCE OR PRODUCE AN UNACCEPTABLE
+BACKGROUND.
+vi. Allow 10 minutes for the area to completely dry prior to penetrant
+application.
+rover | a WURLTIUAGLUVU OIICCtl OO
+
+vii. Penetrant Application - Apply OMat 651F — 1D3 Penetrant to the inspection
+areas (Figures 1 and 2) by brush or sponge applicator. The penetrant must be
+dispensed from a sealed aerosol can and any unused penetrant must go to
+waste.
+
+vill. Ensure that the inspection area is fully covered with penetrant with the aid of a
+UV lamp.
+
+ix. Apply OMat 651F — 1D3 Penetrant to the OMat 677 — Penetrant Test Panel.
+
+x. Leave the penetrant in contact with the components for 30 minutes.
+
+NOTE: THE PENETRANT CONTACT TIME MUST NOT EXCEED 1 HOUR. IF IT DOES THE
+PENETRANT MUST BE REAPPLIED AND 5 MINUTES CONTACT TIME
+ALLOWED.
+
+xi. Penetrant Removal - After the 30 minutes contact time, remove the excess
+penetrant from the inspection surface and the OMat 677 — Penetrant Test Panel
+by wiping thoroughly with a clean OMat 2/101 — Lint Free Cloth.
+
+xii. Whilst illuminating with UV light, wipe off the penetrant with a clean
+OMat 2/10 - Lint Free Cloth moistened with OMat 150 — Acetone. Use the
+minimum application necessary to achieve acceptable background fluorescence
+and ensure than acetone is not allowed to flow on the inspection surface.
+
+xiii. Ensure that all traces of the OMat 150 — Acetone have been completely
+removed.
+
+xiv. Develop - Apply a light, even coating of OMat 617 — Non-Aqueous Wet
+Developer from a sealed aerosol can to the inspection area and the OMat 677 —
+Penetrant Test Panel.
+
+xv. Allow 10 minutes contact time for the developer.
+
+xvi. Cover the region of the engine with a dark non-reflective cover in order to reduce
+the white light levels.
+
+xvil. Ensure there are no white light sources or fluorescent items (including clothing)
+within the inspection area or the inspector’s field of vision.
+
+xviii. Do not wear darkened or light sensitive glasses.
+
+xix. Allow 1 minute for eye adaptation to the darkened area.
+
+xx. Illuminate the OMat 677 — Penetrant Test Panel with UV light at an intensity of no
+less than 1200 W/cm? in the darkened area.
+
+xxi. Inspect the OMat 677 — Penetrant Test Panel and check that the 4 largest
+indications are visible and match the control photograph for that individual panel.
+
+xxii. Illuminate the inspection surface with UV light at an intensity of no less than
+1200 uW/cm’? in the darkened area.
+
+xxili. Inspect the Mount Lug Run-Outs for crack indications.
+

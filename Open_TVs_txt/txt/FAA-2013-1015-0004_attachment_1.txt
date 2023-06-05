@@ -1,0 +1,55 @@
+Regulatory Evaluation
+Docket No. FAA-2013-1015 Directorate Identifier: 2013-NE-37-AD
+If you make changes to the values in the table below, you must ensure the totals update accordingly. If
+they do not, click (or Tab) into and then out of the changed cell.
+Action Costs per Product (e.g., aircraft, engine,
+(c.g., Inspection propeller, appliance)
+replacement) ° Work-hours Labor Parts Cost Total Costs Number of Total Cost
+pia (include cost (labor + USS. for U.S. Fleet
+Do not include on- ;
+os access, testing, | (@W$85/h parts) Registered
+condition costs here
+and close-up) our) Products
+Inspect tail bearing $0
+housing
+The known number of products incompliance:| sd
+Total Costs of compliance for U.S. fleet:
+Costs covered under warranty (if known)
+On-Condition Costs:
+Acti Work-hours Labor cost Parts Cost Cost per Product
+ction ,
+; (include access, (@$85/hour)
+(e.g., Inspection,
+testing, and close-
+replacement)
+
+a
+Special considerations for Economic Analysis (Use this field to explain anything in the Estimated Costs table
+that was assumed or might not be obvious. This field can also be used to explain warranty costs): Labor hours
+from service bulletin.
+Executive Order 12866:
+Could the AD be considered a “significant regulatory action’’? MEL
+
+YES* [_] NOX]
+*Explanation:
+
+DOT Regulatory Policiesand Procedures: = i ai‘OCOC~—~—S—S
+Is the AD significant? ELH
+
+YES* [_] NOX
+*Explanation:
+
+Regulatory Flexibility Act). SCS
+Will the AD have a significant economic impact on a substantial number of small entities’? Explain for
+either a Yes or No answer. @
+
+YES [_] NOX
+Explanation:
+
+Intrastate Aviationin Alaska:
+This AD could affect intrastate aviation in Alaska. Is it appropriate to include specific requirements for
+aircraft operated in Alaska where aviation might be the only mode of transportation? &
+
+YES* [_] NOX]
+*Explanation:
+

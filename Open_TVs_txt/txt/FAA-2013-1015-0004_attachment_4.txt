@@ -1,0 +1,158 @@
+PUBLICATION TRANS MITTAL
+The technical information contained in this document has been approved under the authority
+of — See Planning Information, Approval.
+Date May. 5/16
+RB211 TRENT 900 SERIES PROPULSION SYSTEMS NON-MODIFICATION SERVICE BULLETIN
+ALERT
+Fa
+§
+6 This document transmits Revision 2 to Service Bulletin RB211-72-AG971
+&
+3 Document History
+£
+a Service Bulletin Revision Status Supplement Revision Status
+Initial Issue Sep.20/12
+Revision 1 Sep.2/7/13
+Bulletin Revision 2
+Remove Incorporate Reason for change
+Pages 1 to 5 and 7 Pages 1 to 5 and 7 To introduce an alternative
+method of inspection.
+to 19 of the Service to 31 of the Service
+Bulletin Bulletin
+All pages of Page 1 of Appendix 1 To introduce an alternative
+Appendix 1 method of inspection.
+Transmittal - Page 1 of 2
+CHECK THAT ALL PREVIOUS TRANSMITTALS HAVE BEEN INCORPORATED
+If any have not been received please advise Customer Data Services, Rolls-Royce plc, Derby, England
+© Rolls-Royce plc (date as above) Printed in Great Britain
+LIST OF EFFECTIVE PAGES
+The effective pages to this Service Bulletin following incorporation of Revision
+2 are as follows:
+Page Revision Number Revision Date
+
+Bulletin 2
+R 1 2 May 5/16 z
+R 2 2 May 5/16 =
+R 3 2 May 5/16 @
+R 4 2 May 5/16 ©
+R 5 2 May 5/16 o
+
+6 1 Sep.27/13 ay
+
+R 7 2 May 5/16 °
+R 8 2 May 5/16
+R 9 2 May 5/16
+R 10 2 May 5/16
+R 11 2 May 5/16
+R 12 2 May 5/16
+R 13 2 May 5/16
+R 14 2 May 5/16
+R 15 2 May 5/16
+R 16 2 May 5/16
+R 17 2 May 5/16
+R 18 2 May 5/16
+R 19 2 May 5/16
+R 20 2 May 5/16
+R 21 2 May 5/16
+R 22 2 May 5/16
+R 23 2 May 5/16
+R 24 2 May 5/16
+R 25 2 May 5/16
+R 26 2 May 5/16
+R ov 2 May 5/16
+R 28 2 May 5/16
+R 29 2 May 5/16
+R 30 2 May 5/16
+R 31 2 May 5/16
+
+Appendix 1
+R 1 2 May 5/16
+
+Transmittal -— Page 2
+SES OC BULLETIN
+TRENT 900 LP TURBINE EXHAUST CASE AND SUPPORT ASSEMBLY (CTAIL BEARING HOUSING) MOUNT
+LUG RUN-OUT AND TOP CORE VANE INSPECTIONS — NON-MODIFICATION SERVICE BULLETIN —- NON -
+MOD. /72-AG971
+1. Planning Information
+£
+£ A. Effectivity
+co
+® Airbus A380
+o)
+i R ALL RB211 TRENT 900 Engines with part numbers FW27718, FW35923, FW51434,
+£ eR KH46678, KH45090 or KH46677 only.
+a.
+B. Reason
+Problem
+R Re-analysis of Tail Bearing Housing (TBH) structural features identified a
+R potential Limitation to the TBH capability in the fail safe condition. To
+R confirm intact capability, an on-wing and in-shop inspection regime was defined
+for the Trent 900 TBH. The structural features to be inspected are the TBH
+mount Lug run-outs and Top Core Vanes (TCV). In addition, the Life of the TBH
+R was Limited to 1/7200 cycles to make sure it did not enter in fail safe mode.
+Additionally, historical inspections of the TBH to initial issue of
+Non-Modification Service Bulletin (NMSB) 72-AG971 identified issues which
+required additional inspection criteria as part of a revised containment
+strategy. This has been addressed independently through NMSB 72-AH154.
+R Revision 1 of this NMSB was issued to provide additional clarity for some of
+the materials, tooling and cleaning tasks associated with inspections. It also
+R revised the acceptance criteria for the on-wing inspections (section 3.A.(2))
+R and introduced the inspection of the fail safe catcher in-shop to inform root
+cause understanding for the issues addressed in NMSB 72-AH154.
+R Revision 2 of this NMSB is issued to introduce eddy current inspection method
+R as an alternative to the existing FP inspection of the mount Lug run out
+R region. It also removes the Life Limitation for the component following a
+R re-assessment of the TBH that has demonstrated full Limit load capability of
+R the structure. The on-wing inspections of the mount Lug run-outs are to be
+R maintained until a pin check is introduced into the Maintenance Planning
+R Document (MPD) every 3800 flight cycles. Finally, it also clarifies that the
+R Central Male Catcher Run-Out 1s also addressed as part of the full FP
+R inspection of the TBH in the shop.
+C. Description
+This Non-Modification Service Bulletin (NMSB) instructs the following:
+Sep 20/12 RB.211-72-AG971
+R May. 5/16 Page 1 of 31
+© Rolls-Royce plc
+ES OC BULLETIN
+R (1) On-wing or in-shop TBH mount Lug run-out inspections which are required on
+R Trent 900 Tail Bearing Housings with part numbers FW2/7718, FW35923,
+R FW51434, KH46678, KH45090 or KH46677 every 2200 cycles.
+R (2) The in-shop inspection of TBH top core vanes and central male catcher
+R runout which are required on Trent 900 Tail Bearing Housings with part =
+R numbers FW27718, FW35923, FW51434, KH46678, KH45090 or KH46677 every 3800 5
+cycles. oy
+=
+On-wing a specified area on the mount Lug run-outs is to be crack tested using @
+R a Fluorescent Penetrant Inspection (FPI) method or an alternative Eddy Current -
+R Method, see Fig.1. In shop, the mount lug run-outs can either be inspected =.
+R using a local FPI, local eddy current or through a full FPI of the TBH. >
+R In shop the top core vanes and central male catcher runout are to be inspected
+by a full FPI of the TBH.
+Results of the Inspections are to be returned to Rolls-Royce. Return Appendix 1
+Cor similar form) to your Rolls-Royce Service representative.
+D. Compliance
+ALERT
+R This Non-Modification Service Bulletin is the subject of an EASA Airworthiness
+R Directive AD 2013-0240.
+Rolls-Royce recommends that the following action 1s undertaken to maintain
+continued airworthiness.
+This NMSB applies to both on-wing and in-shop activities.
+(1) On-wing -— Localised Mount Lug Run-Outs Inspection:
+Accomplish the first inspection in accordance with section 3.A. Accomplish
+the first inspection within 2200 cycles for the TBH mount Lug run-outs if
+it is not to be done in-shop. Subsequent inspections whether in-shop or
+on-wing should be within 2200 cycles of previous inspection. Any TBH mount
+Lug run-outs that were inspected to TV124801 or TV124851 prior to initial
+issue of this NMSB are deemed as compliant with the NMSB.
+(2) In-shop - Localised Mount Lug Run-outs Inspection:
+Accomplish the first inspection in accordance with section 3.B. Accomplish
+the first inspection within 2200 cycles for the TBH mount Lug run-outs if
+it is not to be done on-wing or in-shop through full FPI of the TBH.
+Subsequent inspections whether in-shop or on-wing should be within 2200
+cycles of previous inspection. Any TBH mount Lug run-outs that were
+inspected to TV124801 or TV124851 prior to initial issue of this NMSB are
+deemed as compliant with the NMSB.
+Sep 20/12 RB.211-72-AG971
+R May. 5/16 Page 2
+© Rolls-Royce plc
+

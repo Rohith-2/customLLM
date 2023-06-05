@@ -1,0 +1,127 @@
+The technical information contained in this document has been approved under the authority
+of — See Planning Information, Approval.
+Date Mar. 1/16
+RB211 TRENT 900 SERIES PROPULSION SYSTEMS SERVICE BULLETIN
+£
+=
+co
+3
+6 This document transmits the Initial Issue of Service Bulletin RB211-/2-J024 and
+£ the Initial Issue of the Supplement
+TT
+®
+= Bulletin Initial Issue
+Remove Incorporate Reason for change
+Pages 1 to 22 of the Initial Issue
+Service Bulletin
+Supplement Initial Issue
+Remove Incorporate Reason for change
+Page 1 Initial Issue
+Transmittal - Page 1 of 2
+CHECK THAT ALL PREVIOUS TRANSMITTALS HAVE BEEN INCORPORATED
+If any have not been received please advise Customer Data Services, Rolls-Royce plc, Derby, England
+© Rolls-Royce plc (date as above) Printed in Great Britain
+LIST OF EFFECTIVE PAGES
+The effective pages to this Service Bulletin are as follows:
+Page Revision Number Revision Date
+Bulletin
+1 Mar.1/16 3
+2 Mar.1/16 z
+3 Mar.1/16 =
+4 Mar.1/16 @
+5 Mar.1/16 ®
+6 Mar.1/16 ee
+7 Mar.1/16 a
+8 Mar.1/16 >
+9 Mar.1/16
+10 Mar.1/16
+11 Mar.1/16
+12 Mar.1/16
+13 Mar.1/16
+14 Mar.1/16
+15 Mar.1/16
+16 Mar.1/16
+17 Mar.1/16
+18 Mar.1/16
+19 Mar.1/16
+20 Mar.1/16
+21 Mar.1/16
+22 Mar.1/16
+Supplement
+1 Mar.1/16
+Transmittal -— Page 2
+ES OC BULLETIN
+ENGINE — EXHAUST CASE — INTRODUCTION OF LP TURBINE EXHAUST CASE AND SUPPORT
+ASSEMBLIES ACCOMPLISHED BY REWORK OF EXISTING ASSEMBLIES — MOD. 72-J024
+1. Planning Information
+c
+S A. Effectivity
+co
+® Airbus A380
+o)
+i RB211 TRENT970-84 Engines
+®
+c
++ RB211 TRENT972-84 Engines
+RB211 SE100006, SE100444, SE100560, SE100562, SE100563, SE100577, SE100578,
+SE100767, SE100768, SE100802, SE100803, SE100804, SE100828, SE100829, SE100830,
+SE100831, SE100832, SE100885, SE100886, SE100887, SE100888, SE100889, SE100897,
+SE100898, SE100899, SE100900, SE100904, SE100905, SE100906, SE100907, SE100909,
+SE100910, SE100924, SE100925 Core Engines
+RB211 M08100014, M08100443, M08100911 Modules 52 (08)
+B. Concurrent Requirements
+None.
+C. Reason
+(1) Problem and Evidence
+Premature fatigue cracking, on a number of LP Turbine Exhaust Case and
+Support Assemblies at vanes 1 and 14 leading edge fillets, have been
+observed during in-service fluorescent penetrant inspections.
+This is attributed to high thermal peak stress at initial ramps during the
+flight cycle.
+(2) Substantiation
+The changes introduced by this Service Bulletin have been the subject of
+satisfactory engineering evaluation, including stress and thermal
+analysis.
+(3) Objective
+Incorporation of this Service Bulletin (Modification) is designed to
+maintain reliability.
+Mar. 1/16 RB.21 1-/2-J024
+Mar. 1/16 Page 1 of 22
+© Rolls-Royce plc
+ES SOC BULLETIN
+(4) Effect of Bulletin on:
+(a) Operation
+Not affected
+. v
+(b) Maintenance 5
+a
+Not affected 5
+®
+(c) Overhaul o
+wo
+Not affected =
+(d) Repair Schemes
+Affected (Repairs will be revised to include the part(s) introduced by
+this Service Bulletin)
+Ce) Interchangeability
+Not affected
+D. Description
+(1) The changes are:
+(a) Revised LP Turbine Exhaust Case and Support Assemblies are introduced
+similar to the existing items except they are produced by reworking
+existing assemblies by machining scallops at the Leading edge fillets
+of vanes 1 and 14.
+(2) This Service Bulletin is in three parts as follows:
+(a) Part 1
+Rework of LP turbine exhaust case and support assembly to Service
+Bulletin 7?2-F250 standard.
+(b) Part 2
+Rework of LP turbine exhaust case and support assembly to Service
+Bulletin 72-E439 standard.
+(c) Part 3
+Rework of LP turbine exhaust case and support assembly to pre-Service
+Bulletin 7?2-F250 standard.
+Mar. 1/16 RB.21 1-/2-J024
+Mar. 1/16 Page 2
+© Rolls-Royce plc
+

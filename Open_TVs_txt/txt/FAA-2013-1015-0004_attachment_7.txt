@@ -1,0 +1,128 @@
+The technical information contained in this document has been approved under the authority
+of — See Planning Information, Approval.
+Date Mar.22/16
+RB211 TRENT 900 SERIES PROPULSION SYSTEMS SERVICE BULLETIN
+£
+=
+co
+3
+6 This document transmits the Initial Issue of Service Bulletin RB211-/72-J055 and
+£ the Initial Issue of the Supplement
+TT
+®
+= Bulletin Initial Issue
+Remove Incorporate Reason for change
+Pages 1 to 11 of the Initial Issue
+Service Bulletin
+Supplement Initial Issue
+Remove Incorporate Reason for change
+Page 1 Initial Issue
+Transmittal - Page 1 of 2
+CHECK THAT ALL PREVIOUS TRANSMITTALS HAVE BEEN INCORPORATED
+If any have not been received please advise Customer Data Services, Rolls-Royce plc, Derby, England
+© Rolls-Royce plc (date as above) Printed in Great Britain
+LIST OF EFFECTIVE PAGES
+The effective pages to this Service Bulletin are as follows:
+Page Revision Number Revision Date
+Bulletin
+1 Mar .22/16 x
+2 Mar .22/16 =
+3 Mar .22/16 =
+4 Mar.22/16 @
+5 Mar.22/16 ®
+6 Mar.22/16 ow
+7 Mar.22/16 ey
+8 Mar.22/16 >
+9 Mar.22/16
+10 Mar.22/16
+11 Mar.22/16
+Supplement
+1 Mar.22/16
+Transmittal -— Page 2
+SES OC BULLETIN
+ENGINE — EXHAUST CASE -— INTRODUCTION OF AN LP TURBINE EXHAUST CASE AND SUPPORT
+ASSEMBLY WITH INCREASED STRENGTH CAPABILITY - MOD. /72-J055
+1. Planning Information
+c
+8 A. Effectivity
+co
+® Airbus A380
+o)
+i RB211 TRENT9/70-84 Engines prior to Serial No.91409 excluding 91405 to 91407.
+®
+c
+o RB211 TRENT9/72-84 Engines prior to Serial No.91409 excluding 91405 to 91407.
+RB211 TRENT900 SE100006, SE100444, SE100560, SE100562, SE100563, SE100577,
+SE100578, SE100767, SE100768, SE100802, SE100803, SE100804, SE100828, SE100829,
+SE100830, SE100831, SE100832, SE100885, SE100886, SE100887, SE100888, SE100889,
+SE100897, SE100898, SE100899, SE100900, SE100904, SE100905, SE100906, SE10090/7,
+SE100909, SE100910, SE100924 and SE100925 Core Engines.
+RB211 TRENT900 M08100014, M08100443 and M08100911 M52 Modules.
+B. Concurrent Requirements
+None.
+C. Reason
+(1) Problem
+The LP turbine exhaust case and support assembly can suffer premature
+cracking at the radius of the leading edge of vanes 1 and 14. The problem
+is attributed to Low Cycle Fatigue (LCF) as a result of the
+thermo-mechanical loads experienced during the flight cycle. Engineering
+analysis has established that there are differences between the actual
+Loads compared to the predicted Loads used during the original
+determination of fatigue Life.
+The Non Destructive Test (NDT) inspection process used at the manufacturer
+may not detect all cracks in the welds of the turbine exhaust case and
+support assembly. Cracks may subsequently be found during metallurgical
+analysis of the component.
+The outer skin stiffeners, Located on the top of the turbine exhaust case
+and support assembly, may be susceptible to cracking in the fillet weld.
+The problem is attributed to insufficient contact between the end corners
+of the stiffeners and the base material of the case assembly, during the
+welding process. Consequently, a lack of full weld penetration may occur.
+wor.22/%6 RB.211-72-J055
+Mar .22/16 Page 1 of 11
+© Rolls-Royce plc
+ES OC BULLETIN
+Design best practice is to minimise the risk of contaminating critical
+parts with silver residue. Engineering evaluation has determined that
+there 1s a possibility of cross-contamination of silver onto the LP
+turbine disc assembly, which is Located forward of the baffle plate. The
+disc is a critical part. The problem is attributed to self-locking plate
+nuts, which contain silver plating, Located on the front of the baffle =
+plate on the front inner support cone of the exhaust case and support 5
+assembly. Cross-contamination may occur during assembly and overhaul 2
+activities. >
+a
+®
+(2) Evidence o
+wo
+The problem of cracking has been identified during in-service Fluorescent >
+Penetrant Inspections (FPI) and subsequent Laboratory examination of
+sample components.
+(3) Substantiation
+The changes introduced by this modification have been the subject of
+satisfactory engineering evaluation, including stress and thermal
+analysis, using revised modelling methods. Analysis of the revised design
+has shown that the outer skin stiffeners are not required to demonstrate
+the buckling capability of the LP turbine exhaust case and support
+assembly.
+The results of the thermal modelling assessment verifies in-service and
+development engine testing data.
+The results of new thermal analysis, conducted by specialists at the
+manufacturer, support the results of the stress analysis.
+Furthermore, the accuracy of the revised modelling techniques has been
+cross-validated. Examination of in-service components, found to be cracked
+following the FPI, has taken place. Comparison with the predicted cracking
+from the revised modelling methods confirms the modelling reflects actual
+cracking experienced during in-service operations.
+(4) Objective
+Incorporation of this Service Bulletin (Modification) is designed to
+maintain reliability.
+(5) Effect of Bulletin on:
+(a) Operation
+Not affected.
+(b) Maintenance
+Not affected.
+wor.22/%6 RB.211-72-J055
+Mar .22/16 Page 2
+© Rolls-Royce plc
+

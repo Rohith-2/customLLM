@@ -1,0 +1,134 @@
+PUBLICATION TRANSMITTAL
+The technical information contained in this document has been approved under the authority
+of — See Planning Information, Approval.
+Date May. 5/16
+RB211 TRENT 900 SERIES PROPULSION SYSTEMS NON-MODIFICATION SERVICE BULLETIN
+- ALERT
+Fa
+o
+5 This document transmits the Initial Issue of Service Bulletin RB211-—/72-AJ101
+&
+3 Bulletin Initial Issue
+=
+a Remove Incorporate Reason for change
+Pages 1 to 19 of the Initial issue
+Service Bulletin
+Page 1 and 2 of Initial issue
+Appendix 1
+Transmittal - Page 1 of 2
+CHECK THAT ALL PREVIOUS TRANSMITTALS HAVE BEEN INCORPORATED
+If any have not been received please advise Customer Data Services, Rolls-Royce plc, Derby, England
+© Rolls-Royce plc (date as above) Printed in Great Britain
+LIST OF EFFECTIVE PAGES
+
+The effective pages to this Service Bulletin are as follows:
+
+Page Revision Number Revision Date
+
+Bulletin
+1 May 5/16 3
+2 May 5/16 z
+3 May 5/16 =
+4 May 5/16 @
+5 May 5/16 ©
+6 May 5/16 ow
+¢ May 5/16 ay
+8 May 5/16 °
+9 May 5/16
+10 May 5/16
+11 May 5/16
+12 May 5/16
+13 May 5/16
+14 May 5/16
+15 May 5/16
+16 May 5/16
+17 May 5/16
+18 May 5/16
+19 May 5/16
+Appendix 1
+1 May 5/16
+2 May 5/16
+Transmittal -— Page 2
+Ree )=—r DULLETIN
+ENGINE — LP TURBINE EXHAUST CASE AND SUPPORT ASSEMBLY (TAIL BEARING HOUSING) MOUNT
+LUG FORGING LEADING EDGE AND CUTBACK INSPECTIONS — NON-MODIFICATION SERVICE BULLETIN
+— NON — MOD. /72-AJ101
+1. Planning Information
+£
+§ A. Effectivity
+co
+® Airbus A380
+o)
+i RB211 TRENT9/70-84 engines incorporating Service Bulletin 72-J024.
+®
+c
+o RB211 TRENT9/70B-84 engines incorporating Service Bulletin 72-J024.
+RB211 TRENT9/72-84 engines incorporating Service Bulletin 72-J024.
+RB211 TRENT9/72B-84 engines incorporating Service Bulletin 72-J024.
+B. Reason
+Problem
+Inspections of the Tail Bearing Housing (TBH) to Non-Modification Service
+Bulletin (NMSB) 72-AG971 have identified crack indications in the mount Lug
+forging Leading Edge (LE). This area is currently being inspected through NMSB
+72-AH154.
+A modification of the Tail Bearing Housing has been released in Service
+Bulletin 72-J024. This modification introduces a local change of the Leading
+edge profile, generating a cutback feature to reduce the stress on this
+Location and minimise the risk of cracking. However, cracking may still occur
+in the future. As a consequence, this Non-Modification Service Bulletin is
+released to instruct the inspection of Tail Bearing Housings incorporating SB
+(2-J024. This NMSB no Longer includes the requirement to inspect the fail safe
+male catcher for damage. This was originally included in NMSB 72-AH154 to
+support the root cause understanding of the leading edge cracking. This root
+cause investigation has concluded that cracking is not related to a potential
+contact of the catcher with the engine mounts.
+C. Description
+This NMSB instructs the following:
+On-wing or in-shop Non-Destructive Test (NDT) inspections of the mount lug
+forging LE and cutback areas which are required on Trent 900 engines
+incorporating Service Bulletin /72-J024 fleet every 1000 flight cycles.
+This NMSB details the on-wing and in-shop inspection techniques for the TBH.
+Noy. 3/16 RB.211-72-AJ101
+May. 5/16 Page 1 of 19
+© Rolls-Royce plc
+ES SOC BULLETIN
+On-wing, the mount Lug forging LE and cutback areas are to be Fluorescent
+Penetrant Inspection (FPI) crack tested. In-shop, the mount lug forging LE and
+cutback areas can either be inspected using a local FPI method or through a
+full FPI of the entire TBH.
+This NMSB applies to all the below TBH part numbers: =
+=
+KH46677, KH46678, KH45090. a
+=
+Results of the inspections are to be returned to Rolls-Royce. Return Appendix 1 @
+Cor similar form) to your Rolls-Royce Service representative. -
+D. Compliance =
+ALERT
+This NMSB is expected to be the subject of an EASA Airworthiness Directive.
+Rolls-Royce recommends that the following action 1s undertaken to maintain
+continued airworthiness.
+This NMSB applies to both on-wing and in-shop activities.
+(1) On-wing:
+Accomplish the first inspection in accordance with section 3.A.
+Accomplishment Instructions, accomplish the first inspection within 1000
+flight cycles of the embodiment of SB 72-J024 for the TBH mount Lug
+forging LE and cutback areas if it 1s not to be done in-shop.
+Any TBH that received a full FPI in accordance with NMSB 72-AG971, 3.C.
+Accomplishment Instructions are deemed as compliant with this NMSB
+(72-AJ101).
+Subsequent inspections whether in-shop or on-wing should be within 1000
+cycles of previous inspection.
+(2) In-shop:
+Mount Lug Forging LE area (Local Inspection)
+This inspection must be applied on all Engines where the Module 52 is
+level 1 (Serviceability). The inspection must be carried out whilst the
+part is at module Level and strip of the module to piece part is not
+required.
+For Engines where the Module 52 is Level 2 (Check and Repair) or above,
+this Local inspection is not required if the TBH receives a full
+Fluorescent Penetrant Inspection in accordance with NMSB 72-AG971, 3.C.
+Accomplishment Instructions. Otherwise the Local inspection 1s required.
+nay. 3/16 RB.211-72-AJ101
+May. 5/16 Page 2
+© Rolls-Royce plc
+

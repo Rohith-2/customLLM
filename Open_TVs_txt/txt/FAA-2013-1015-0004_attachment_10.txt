@@ -1,0 +1,176 @@
+a [eovcell = aga zr HEE = a a Im yy
+© Rolls-Royce plc (date as shown below).
+The information in this document is the property of Rolls-Royce plc and may not be copied, communicated to a third party, or
+used for any purpose other than that which it is supplied without the express written consent of Rolls-Royce plc.
+This is a repeat application technical variance. It is the responsibility of the operator / overhaul base to control the application
+of this document.
+This document is supplemental to the Manual(s) specified below and should be suitably stored in accordance with local
+airworthiness requirements.
+Technical Variance No. 132217 Issue 5 Date 23 MAY 2013
+Operator / Applicant ALL OPERATORS / Original Request No. DK_08 03 2013
+
+ALL APPLICANTS
+Engine Type RB211 Engine Mark(s) TRENT 900 ALL ENGINE MARKS
+Part Description LP TURBINE EXHAUST CASE (TAIL BEARING HOUSING)
+Part No. FW35923, FW51434, FW27718
+Manual Title AMM Ref. NA ATA Ref. 72-52-51
+TV Title MOUNT LUG FORGING LEADING EDGE INSPECTIONS
+Existing Requirement
+The Aircraft Maintenance Manual (AMM) does not contain a procedure to inspect the Tail Bearing Housing
+(TBH) Mount Lug Forging Leading Edge (LE) area for crack indications on wing
+Requested Variance
+Currently there is a requirement to inspect the TBH Mount Lug Forging LE area on Trent 900 engines on
+wing.
+NMSB72-AH154 will follow the issue of this repeater TV and will include details of the new inspection. This
+repeater TV includes the details of the inspection until NUSB72-AH154 is finalised and issued. This
+Technical Variance may be applied until 28" June 2013.
+The results of this inspection are to be reported to Rolls-Royce.
+Summary of Investigation and Conclusions
+Rolls-Royce Engineering has reviewed the above requirement and an inspection technique has been developed. This TV is issued to
+instruct the inspection of the TBH Mount Lug Forging LE area.
+Issue 2 of this Repeater Technical Variance is released to update the fly on and re inspection requirements for crack
+indications in the Mount Lug Forging LE area. Additionally, inspection and acceptance criteria for fail safe catcher damage are
+updated for clarity.
+Issue 3 is released to correct a formatting error.
+Issue 4 is released to correct an error in task reference for removal and installation of the aft exhaust plug.
+Issue 5 is released to make the removal and installation of the exhaust nozzle and forward and aft exhaust plugs, optional
+tasks.
+Approval on Behalf of Rolls-Royce
+Tite ie CR A a ST eee
+: - as weg 4 . > nt 7 4
+Signature Woo et. )=«iPrinted name ¢wais 2 Wt SSE w= Date -” » fae fy
+Documert Created by eh
+Declaration of Approval
+This document is approved under the authority of Airbus EASA Design Organisation Approval no. EASA.21J.031.
+Refer to Repair Design Approval Sheet reference no
+[= ae) eee a nee ee ee ees ee eee fen Bo ce oil oe RO ae we ee mh
+eorces a” sas WULUTIUAGUOT OFeCel OO
+A. Manpower Requirements
+1) On-wing
+(a) Time to gain access
+2.5 hours (2 persons)
+(b) Time to inspect Mount Lug Forging LE Areas
+2 hours (2 persons)
+(c) Time to restore to serviceable condition
+2.5 hours (2 persons)
+The FPI defined in this Technical Instruction shall only be performed by personnel qualified to Fluorescent
+Penetrant Inspection FPI Level 2 or higher and in possession of an up to date eyesight record in
+accordance with EN4179/NAS410 or alternative standards/guidelines accepted by the applicable National
+Aviation Authority.
+B. Material Price and Availability
+OMat 632 — Aerosol penetrant - Commercially Available
+OMat 617 — Aerosol developer - Commercially Available
+OMat 150 — Acetone - Commercially Available
+OMat 2/101 — Lint Free Cloths - Commercially Available
+OMat 677 — Penetrant Test Panel - Commercially Available
+C. Tooling Price and Availability
+Dark Non-Reflective cover to darken the area for inspection — Commercially Available
+UV Light source —- Commercially Available
+Mirror — Commercially Available
+D. References
+(1) Aircraft Maintenance Manual (AMM):
+(a) 71-13-00, Maintenance Practices, Opening of Fan Cowl Doors
+(b) 78-26-00, Maintenance Practices, Opening/Closing of the Fan Exhaust
+Cowl or Thrust Reverser
+(c) 78-30-00, Deactivation/Reactivation, Make the Thrust Reverser
+Unserviceable for Maintenance
+(d) 78-11-41-000-801-A Removal of the Exhaust Nozzle
+(e) 78-11-42-000-804-A Removal of the Aft Exhaust Plug
+eorcelt re” rs WVUTUTUAGLUO OICetl OO
+(f) 78-11-42-000-803-A Removal of the Forward Exhaust Plug
+(g) 78-11-41-400-801-A Installation of the Exhaust Nozzle
+(h) 78-11-42-400-804-A Installation of the Aft Exhaust Plug
+(i) 78-11-42-400-803-A Installation of the Forward Exhaust Plug
+E. On-Wing —Mount Lug Forging LE Area Inspection
+WARNING: YOU MUST BE CAREFUL WHEN YOU WORK ON THE ENGINE AFTER THE
+ENGINE IS SHUTDOWN. THE ENGINE CAN STAY HOT FOR UPTO ONE
+HOUR.
+WARNING: YOU MUST NOT TOUCH HOT PARTS WITHOUT APPLICABLE GLOVES. HOT
+PARTS CAN CAUSE INJURY. IF YOU GET AN INJURY, TREAT WITH COLD
+WATER FOR 10 MINUTES, THEN SEEK MEDICAL AID.
+1) To get access to the mount lug forging LE Area
+(i) Open the Fan Cowl Doors in accordance with AMM Task 71-13-00, Maintenance
+Practices to get access
+(ii) Make the Thrust Reverser unserviceable for maintenance in accordance with
+AMM Task 78-30-00 Deactivation/Activation.
+WARNING: YOU MUST MAKE THE THRUST REVERSER UNSERVICEABLE (INSTALL
+AND SAFETY THE INHIBITION DEVICE) BEFORE YOU DO WORK ON OR
+AROUND THE THRUST REVERSER. IF YOU DO NOT INSTALL AND SAFETY
+THE INHIBITION DEVICE, THERE IS A RISK THAT THE THRUST REVERSER
+CAN OPERATE ACCIDENTALLY. THIS CAN CAUSE INJURY TO PERSON
+AND/OR DAMAGE TO THE EQUIPMENT.
+(iii) Open the Fan Exhaust Cowls in accordance with the AMM, Task 78-26-00
+(iv) Remove the Exhaust Nozzle to allow access to the rear of the TBH in
+accordance with AMM, Task 78-11-41-000-801-A
+(v) Remove the Aft Exhaust Plug in accordance with AMM, Task 78-11-42-000-804-
+A
+(vi) Remove the Forward Exhaust Plug in accordance with AMM, Task 78-11-42-
+000-803-A
+NOTE: STEPS (iv) TO (vi) ARE OPTIONAL TASKS INTENDED TO IMPROVE ACCESS
+TO THE TBH. IF SUITABLE ACCESS CAN BE GAINED WITHOUT
+PERFORMING SOME OR ALL OF TASKS (iv) TO (vi) THEN THEY ARE NOT
+REQUIRED.
+(vii) Use appropriate staging and platforms to gain access to the Tail Bearing Housing
+2) Processing the penetrant test panel
+(i) The OMat 677 — penetrant test panel must be processed at the beginning of
+each shift and viewed in each engine that is to be inspected during the shift in
+order to ensure that the test environment and materials are acceptable.
+eorces a” sas WVUTUTUAGLUO OICetl OO
+
+(ii) Ensure the OMat 677 — penetrant test panel is clean and there is no residual
+fluorescence.
+
+(iii) Cover the region of the engine to be inspected with a dark non-reflective cover in
+order to reduce the white light levels in the leading edge inspection area.
+
+(iv) Apply OMat 632 penetrant to the OMat 677 — penetrant test panel by sponge
+applicator or brush. The penetrant must be dispensed from a sealed aerosol can
+and any unused penetrant must go to waste following the inspection.
+
+(v) Leave the penetrant in contact with the panel for 20 minutes.
+
+(vi) After the 20 minutes contact time, take the OMat 677 penetrant test panel inside
+the darkened area to process. Allow 3 minutes for eye adaptation to the low light
+levels.
+
+(vii) Remove the excess penetrant from the panel surface by wiping thoroughly with a
+clean, dry OMat 2/101 — lint free cloth whilst illuminating the panel with UV light.
+
+(vill) © Soak a clean OMat 2/10 - lint free cloth in water and then gently squeeze the
+excess water out to reduce the flow of water on the panel surface.
+
+(ix) Whilst illuminating the OMat 677 — penetrant test panel with UV light, wipe off the
+penetrant with the wet cloth before immediately wiping over with a clean, dry
+OMatz2/10 lint free cloth. Repeat this process using the minimum application
+necessary to achieve acceptable background fluorescence.
+
+(x) Ensure that the panel is dry by wiping with a clean, dry OMat2/10 lint free cloth.
+
+(xi) Apply a light, even coating of OMat 617 — non-aqueous wet developer from a
+sealed aerosol can to the OMat 677 — penetrant test panel.
+
+(xii) Allow 10 minutes contact time for the developer prior to inspecting the panel.
+
+(xiil) Ensure there are no white light sources or fluorescent items (including clothing)
+within the darkened area.
+
+(xiv) | Hold the OMat 677 — penetrant test panel alongside the leading edge of the Top
+Core Vanes and illuminate it with UV light.
+
+(xv) Inspect the OMat 677 — penetrant test panel and check that the visible
+indications match the control photograph for that panel.
+
+(xvi) If the panel matches the photograph then the inspection materials and
+environment are acceptable and the inspections can be performed.
+
+(xvii) Repeat steps (xiii) to (xvi) for each engine to be inspected during the shift.
+Ensure that the inspection area is darkened for each engine.
+
+(xvili) Restore the OMat 677 — penetrant test panel to a completely clean condition and
+ensure there is no residual fluorescence and store in acetone.
+
+3) Carry out the inspection of the Mount Lug Forging LE Area
+WARNING: PROTECTIVE GLOVES AND SAFETY GLASSES MUST BE WORN AT ALL
+TIMES DURING THE INSPECTION. IF YOU GET AN INJURY, SEEK MEDICAL
+AID IMMEDIATELY.
+

@@ -1,0 +1,203 @@
+F A SA Airworthiness Directive
+> A AD No.: 2016-0193
+~~“ * European Aviation Safety Agency
+Issued: 30 September 2016
+Note: This Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation
+(EC) 216/2008 on behalf of the European Union, its Member States and of the European third
+countries that participate in the activities of EASA under Article 66 of that Regulation.
+This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex |, Part M.A.301, the
+continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which
+an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I,
+Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption].
+Design Approval Holder’s Name: Type/Model designation(s):
+ROLLS-ROYCE plc RB211 Trent 900 Engines
+Effective Date: 14 October 2016
+TCDS Number(s): EASA.E.012
+Foreign AD: Not applicable
+Supersedure: This AD supersedes EASA AD 2013-0240 issued 30 September 2013, including its
+Correction dated 04 October 2013.
+ATA 72 — Engine — Low Pressure Turbine Exhaust Case and Support Assembly (Tail
+Bearing Housing) — Inspection / Replacement
+Manufacturer(s):
+Rolls-Royce plc (RR)
+Applicability:
+RB211 Trent 970-84, 970B-84, 972-84, 972B-84, 977-84, 977B-84 and 980-84 engines, all serial
+numbers. These engines are known to be installed on, but not limited to, Airbus A380 aeroplanes.
+Reason:
+RR performed a re-analysis of the structural features of the Trent 900 low pressure turbine exhaust
+case and support assembly (also known as Tail Bearing Housing, or TBH). The result of this re-
+analysis indicated that the TBH may not retain full limit load capability in all fail-safe conditions. In
+addition, during previous inspections of Trent 900 TBH mounts and vanes, cracks were found in the
+outer annulus leading edge (LE) fillet of some vanes.
+These conditions, if not detected and corrected, could lead to disconnection of the TBH structural
+ring from the mounts, possibly resulting in damage to, or reduced control of, the aeroplane.
+To address this potential unsafe condition, RR published Alert Non-Modification Service Bulletin
+(NMSB) RB.211-72-AG971 and NMSB RB.211-72-AH154, providing inspection instructions and
+criteria for replacement of parts.
+ee } n.-.1-2.f79
+Consequently, EASA issued AD 2013-0240, to require on-wing and in-shop inspections of the TBH
+structural features to detect cracks or damage and, depending on findings, the accomplishment of
+applicable corrective action(s).
+
+Since that AD was issued, further inspection results were analysed, and concluded that on-wing
+
+inspections of the Fail Safe Catcher are no longer necessary, but that in-shop inspections of the
+
+Central Male Catcher Run-out should be required. In addition, a modification (mod) of the TBH was
+
+developed by RR, available for in-service engines through Service Bulletin (SB) RB.211-72-J024,
+
+introducing a cutback of the leading edge profile through rework of existing parts, which reduces
+the stress and minimises the risk of cracking. An inspection regime for post-mod 72-JO024 engines
+was therefore developed and RR published Alert NMSB RB.211-72-AJ101 accordingly. In addition,
+
+further analysis has shown that a TBH life limit is no longer necessary. In addition, RR developed a
+
+modification (mod 72-J055), made available for in-service engines through SB RB.211-72-J055,
+
+which introduces a TBH with increased strength capability, deleting the need for inspections.
+
+For the reasons described above, this AD partially retains the requirements of EASA AD 2013-0240,
+
+which is superseded, deleting the TBH life limits previously imposed by that AD, changing certain
+
+inspection requirements, introducing repetitive inspections for post-SB 72-JO24 engines, and
+specifying the (optional) terminating action.
+
+Required Action(s) and Compliance Time(s):
+
+Required as indicated, unless accomplished previously:
+
+Note 1: Where, in this AD, reference is made to a RR mod, SB or NMSB with an ‘A’ (Alert) in the
+
+number, it should be recognised that an earlier or later revision may not have that ‘A’. This kind of
+
+change does not effectively alter the publication references for the purpose of this AD.
+
+Note 2: The TBH affected by this AD are identified by Part Number (P/N):
+
+- pre-mod 72-J024: P/N FW27718, P/N FW35923 and P/N FW51434
+
+- post-mod 72-J024: P/N KH45090, P/N KH46677 and P/N KH46678.
+
+On-wing Inspections:
+
+(1) Within the compliance times specified in Appendix 1 of this AD, as applicable to the TBH P/N,
+accomplish on-wing inspections of the TBH features in accordance with the instructions of the
+specified sections of the applicable RR Alert NMSB, as referenced in Appendix 1 of this AD.
+
+In-shop Inspections:
+
+(2) Within the compliance times specified in Appendix 2 of this AD, as applicable to the TBH P/N,
+accomplish in-shop inspections of the TBH features in accordance with the instructions of the
+specified sections of the applicable RR Alert NMSB, as referenced in Appendix 2 of this AD.
+
+Corrective Action(s):
+
+(3) ‘If, during any on-wing inspection of the TBH as required by paragraph (1) of this AD, any crack
+is found on the TBH Mount Lug Run-outs or on the Central Male Catcher Run-outs, in
+accordance with the criteria and within the compliance times defined in paragraph 3.A.(1) or
+3.A.(2), as applicable, of RR Alert NMSB RB.211-72-AG971, remove the engine from service,
+
+[oe dd a
+contact RR for approved corrective action instructions and, before release to service of that
+engine, accomplish those actions accordingly.
+
+(4) If, during any in-shop inspection of the TBH as required by paragraph (2) of this AD, any crack
+is found on the TBH Mount Lug Run-outs or on the Central Male Catcher Run-outs, before
+release to service of the engine, replace the TBH with a serviceable TBH.
+
+(5) ‘If, during any in-shop inspection of the TBH as required by paragraph (2) of this AD, any crack
+is found on the Top Core Vanes, before release to service, repair the engine in accordance
+with the instructions of section 3.C.(1) of RR Alert NMSB RB.211-72-AG971.
+
+(6) ‘If, during any on-wing inspection of a pre-mod 72-J024 TBH (see Note 2 of this AD) as required
+by paragraph (1) of this AD, any crack or damage is found on the TBH Mount Lug Forging LE
+Areas, in accordance with the criteria and within the compliance times defined in section
+3.A.(3) of RR Alert NMSB RB.211-72-AH154, re-inspect the engine, or remove the engine from
+service, contact RR for approved corrective action instructions and, before release to service
+of that engine, accomplish those actions accordingly.
+
+(7) If, during any in-shop inspection of a pre-mod 72-J024 TBH (see Note 2 of this AD) as required
+by paragraph (2) of this AD, any crack or damage is found on the TBH Mount Lug Forging LE
+Areas, before release to service, repair the engine in accordance with the instructions of
+section 3.B.(2) of RR Alert NMSB RB.211-72-AH154, or of section 3.C.(1) of RR Alert NMSB
+RB.211-72-AG971, as applicable.
+
+(8) If, during any on-wing inspection of a post-mod 72-J024 TBH (see Note 2 of this AD) as
+required by paragraph (1) of this AD, any crack is found on the TBH Mount Lug Forging LE or
+Cutback Areas, as applicable, in accordance with the criteria and within the compliance times
+defined in paragraph 3.A.(3) of RR Alert NMSB RB.211-72-AJ101, re-inspect the engine, or
+remove the engine from service, contact RR for approved corrective action instructions and,
+before release to service of that engine, accomplish those actions accordingly.
+
+(9) ‘If, during any in-shop inspection of a post-mod 72-J024 TBH (see Note 2 of this AD) as
+required by paragraph (2) of this AD, any crack is found on the TBH Mount Lug Forging LE or
+Cutback Areas, as applicable, before release to service, repair the engine in accordance with
+the instructions of section 3.B.(2) of RR Alert NMSB RB.211-72-AJ101, or of section 3.C.(1) of
+RR Alert NMSB RB.211-72-AG971, as applicable.
+
+Credit:
+
+(10) Inspections and corrective actions, accomplished on an engine before the effective date of
+this AD, in accordance with the instructions of applicable sections of earlier issues of RR Alert
+NMSB RB.211-72-AG971, or earlier issues of RR Alert NMSB RB.211-72-AH154, as applicable,
+are acceptable to comply with the initial requirements of paragraphs (1) and (2) of this AD, as
+applicable to that engine.
+
+[oe dd a
+Terminating Action:
+
+(11) Accomplishment of corrective actions on an engine, as required by paragraph (3), (4), (5), (6),
+(7), (8) or (9) of this AD, as applicable, does not constitute terminating action for the repetitive
+inspections required by paragraphs (1) and (2) of this AD for that engine.
+
+(12) Modification of an engine in accordance with the instructions of RR SB RB.211-72-J055
+constitutes terminating action for the repetitive inspections required by paragraph (1) and (2)
+of this AD for that engine, provided that, following modification, no affected TBH (see Note 2
+of this AD) is installed on that engine.
+
+(13) No actions are required by this AD for an engine that embodies RR mod 72-J055 in production,
+provided that, after entry into service, no affected TBH (see Note 2 of this AD) is installed on
+that engine.
+
+Ref. Publications:
+
+Rolls-Royce Alert NMSB RB.211-72-AG971 original issue dated 20 September 2012, or Revision 1
+
+dated 27 September 2013, or Revision 2 dated 05 May 2016.
+
+Rolls-Royce Alert NMSB RB.211-72-AH154 original issue dated 29 May 2013, or Revision 1 dated
+
+18 June 2013, or Revision 2 dated 19 September 2014, or Revision 3 dated 23 September 2014, or
+
+Revision 4 dated 07 July 2015, or Revision 5 dated dated 05 May 2016.
+
+Rolls-Royce Alert NMSB RB.211-72-AJ101 original issue dated 05 May 2016.
+
+Rolls-Royce SB RB.211-72-J024 original issue dated 01 March 2016.
+
+Rolls-Royce SB RB.211-72-J055 original issue dated 22 March 2016.
+
+The use of later approved revisions of these documents is acceptable for compliance with the
+
+requirements of this AD.
+
+Remarks:
+
+1. If requested and appropriately substantiated, EASA can approve Alternative Methods of
+Compliance for this AD.
+
+2. This AD was posted on 13 June 2016 as PAD 16-088 for consultation until 27 June 2016, and
+republished on 17 August 2016 as PAD 16-088R11 for additional consultation until 31 August
+2016. The Comment Response Document can be found at http://ad.easa.europa.eu.
+
+3. Enquiries regarding this AD should be referred to the EASA Safety Information Section,
+Certification Directorate. E-mail: ADs@easa.europa.eu.
+
+4. For any question concerning the technical content of the requirements in this AD, please
+contact your designated Rolls-Royce representative, or download the publication from your
+Rolls Royce Care account at https://customers.rolls-royce.com.
+
+ew mM.-. A.ft7
+

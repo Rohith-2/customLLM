@@ -1,0 +1,149 @@
+PUBLICATION TRANS MITTAL
+The technical information contained in this document has been approved under the authority
+of — See Planning Information, Approval.
+Date May. 5/16
+RB211 TRENT 900 SERIES PROPULSION SYSTEMS NON-MODIFICATION SERVICE BULLETIN
+, ALERT
+Fa
+§
+6 This document transmits Revision 5 to Service Bulletin RB211-72-AH154
+&
+3 Document History
+£
+a Service Bulletin Revision Status Supplement Revision Status
+Initial Issue Jun.13/13
+Revision 1 Jun.18/13
+Revision 2 Sep.19/14
+Revision 3 Sep.23/14
+Revision 4 Jul.7/15
+Bulletin Revision 5
+Remove Incorporate Reason for change
+All pages of the Pages 1 to 19 of the Revision 5 of this NMSB is
+Service Bulletin Service Bulletin issued to remove inspection
+of the TBH fail safe
+catcher.
+All pages of Page 1 and 2 of Revision 5 of this NMSB is
+Appendix 1 Appendix 1 issued to remove inspection
+of the TBH fail safe
+catcher.
+Transmittal - Page 1 of 2
+CHECK THAT ALL PREVIOUS TRANSMITTALS HAVE BEEN INCORPORATED
+If any have not been received please advise Customer Data Services, Rolls-Royce plc, Derby, England
+© Rolls-Royce plc (date as above) Printed in Great Britain
+LIST OF EFFECTIVE PAGES
+The effective pages to this Service Bulletin following incorporation of Revision
+5 are as follows:
+Page Revision Number Revision Date
+
+Bulletin A
+R 1 5 May 5/16 z
+R 2 5 May 5/16 =
+R 3 5 May 5/16 @
+R 4 5 May 5/16 ©
+R 5 5 May 5/16 ow
+R 6 5 May 5/16 aS
+R 7 5 May 5/16 °
+R 8 5 May 5/16
+R 9 5 May 5/16
+R 10 5 May 5/16
+R 11 5 May 5/16
+R 12 5 May 5/16
+R 13 5 May 5/16
+R 14 5 May 5/16
+R 15 5 May 5/16
+R 16 5 May 5/16
+R 17 5 May 5/16
+R 18 5 May 5/16
+R 19 5 May 5/16
+
+Appendix 1
+R 1 5 May 5/16
+R 2 5 May 5/16
+
+Transmittal -— Page 2
+eee = =—bDULLETIN
+ENGINE — LP TURBINE EXHAUST CASE AND SUPPORT ASSEMBLY CTAIL BEARING HOUSING) MOUNT
+LUG FORGING LEADING EDGE INSPECTIONS — NON-MODIFICATION SERVICE BULLETIN —- NON -
+MOD. 72-AH154
+1. Planning Information
+£
+£ A. Effectivity
+co
+® Airbus A380
+G)
+i RB211 TRENT970-84 engines with Tail Bearing Housing (TBH) part numbers FW27718,
+2 FW35923, FW51434 only.
+o.
+RB211 TRENT9/70B-84 engines with TBH part numbers FW27718, FW35923, FW51434
+only.
+RB211 TRENT9/72-84 engines with TBH part numbers FW27718, FW35923, FW51434 only.
+RB211 TRENT9/72B-84 engines with TBH part numbers FW27718, FW35923, FW51434
+only.
+RB211 TRENT9/7/7-84 engines with TBH part numbers FW27718, FW35923, FW51434 only.
+RB211 TRENT9/7/7B-84 engines with TBH part numbers FW27718, FW35923, FW51434
+only.
+RB211 TRENT980-84 engines with TBH part numbers FW27718, FW35923, FW51434 only.
+B. Reason
+Problem
+Inspections of the Tail Bearing Housing (TBH) to Non-Modification Service
+Bulletin (NMSB) 72-AG971 have identified crack indications in the mount Lug
+forging Leading Edge (LE) area which require additional inspection criteria as
+part of a revised containment strategy.
+An on-wing and in-shop inspection regime has been defined for the mount Lug
+forging LE areas to contain the issue and further inform root cause
+understanding.
+C. Description
+This NMSB instructs the following:
+On-wing or in-shop Non-Destructive Test (NDT) inspections of the mount lug
+forging LE area which is required on all Trent 900 engines with TBH part
+numbers FW27718, FW35923, FW51434 only, every 1000 flight cycles.
+This NMSB details the on-wing and in-shop inspection techniques for the TBH.
+Jun 13/13 RB.21 1-/2-AH154
+R May. 5/16 Page 1 of 19
+© Rolls-Royce plc
+ES OC BULLETIN
+On-wing, the mount Lug forging LE area 1s to be Fluorescent Penetrant
+Inspection (FPI) crack tested. In-shop, the mount lug forging LE area can
+either be inspected using a Local FPI method or through a full FPI of the
+entire TBH.
+Results of the inspections are to be returned to Rolls-Royce. Return Appendix 1 =
+Cor similar form) to your Rolls-Royce Service representative. 5
+oO
+oe.
+Revision 1 of this NMSB was issued to revise the NOTE included in 3.A.(3).(t). >
+to change the number of flight cycles from 5 to 10 and minor non-technical @
+changes. =
+w
+Revision 2 of this NMSB was issued to include the Local polishing and etching =
+repair alternative in the event of a crack indication finding during a local
+FPI inspection. This 18 expected to remove a proportion of shallow cracks and
+restore engine serviceability. This repair can only be accomplished once per
+vane. It also clarifies that the inspection interval is Linked to the Life of
+the TBH rather than the engine Life.
+Revision 3 of this NMSB was issued to correct a typographical error to the AMM
+task number referenced for on-wing Repair FRSH741 in step 3.A.(3)(t)
+Accomplishment Instructions and 1.1. References.
+R Revision 4 of this NMSB was issued to update the re-inspection intervals for
+R the different crack sizes on-wing. It also eliminated the crack size Limitation
+R for the application of the polishing and etching repair on-wing and provided an
+R alternative Light source for the FPI inspection. This revision also Limited the
+effectivity to engines with TBH part numbers FW27718, FW35923, FW51434 only.
+R Revision 5 of this NMSB is issued to remove inspection of the TBH fail safe
+R catcher. This was included during the initial root cause investigation and it
+R has now been established that contact between the fail safe catcher and the
+R engine mount system is not the cause of the cracking issue.
+D. Compliance
+ALERT
+This NMSB is the subject of an EASA Airworthiness Directive AD 2013-0240.
+Rolls-Royce recommends that the following action 1s undertaken to maintain
+continued airworthiness.
+This NMSB applies to both on-wing and in-shop activities.
+(1) On-wing:
+Accomplish the first inspection in accordance with section 3.A.
+Accomplishment Instructions, accomplish the first inspection within 1000
+flight cycles for the TBH mount Lug forging LE areas if it is not to be
+done in-shop.
+Jun 13/15 RB.211-72-AH154
+R May. 5/16 Page 2
+© Rolls-Royce plc
+
