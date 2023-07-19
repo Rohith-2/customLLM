@@ -1,0 +1,13 @@
+PERSIST_DIRECTORY = "db_titanic"
+MODEL_TYPE = "LlamaCpp"
+# MODEL_PATH = "models/ggml-vic7b-uncensored-q5_1.bin"
+MODEL_PATH = r"D:\models\orca-mini-3b.ggmlv3.q5_1.bin"
+# MODEL_PATH = r"D:\models\orca-mini-13b.ggmlv3.q5_K_S.bin"
+EMBEDDINGS_MODEL_NAME = "all-MiniLM-L6-v2"
+# source_directory = "Open_TVs_txt\mod_txts"
+source_directory = r"D:\source"
+MODEL_N_CTX = 2000
+chunk_size = 500
+chunk_overlap = 50
+target_source_chunks = 5
+n_gpu_layers = 50
